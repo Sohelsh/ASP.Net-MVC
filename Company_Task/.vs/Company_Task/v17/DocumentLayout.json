@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ASP.NET MVC\\Company_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|f:\\asp.net mvc\\company_task\\company_task\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|solutionrelative:company_task\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|f:\\asp.net mvc\\company_task\\company_task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|solutionrelative:company_task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|f:\\asp.net mvc\\company_task\\company_task\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|solutionrelative:company_task\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|f:\\asp.net mvc\\company_task\\company_task\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|solutionrelative:company_task\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|f:\\asp.net mvc\\company_task\\company_task\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|solutionrelative:company_task\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|f:\\asp.net mvc\\company_task\\company_task\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|solutionrelative:company_task\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|f:\\asp.net mvc\\company_task\\company_task\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|solutionrelative:company_task\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|f:\\asp.net mvc\\company_task\\company_task\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85E7E31-C762-4353-AC33-2A3DE9F959CC}|Company_Task\\Company_Task.csproj|solutionrelative:company_task\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company_Task\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Company_Task\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T08:18:15.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Company_Task\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Company_Task\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwBgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:14:45.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Company_Task\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Company_Task\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:34:45.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "iEmployeeRepository.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Repository\\iEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Company_Task\\Repository\\iEmployeeRepository.cs",
+              "ToolTip": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Repository\\iEmployeeRepository.cs",
+              "RelativeToolTip": "Company_Task\\Repository\\iEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T07:12:15.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Company_Task\\Models\\Employee.cs",
+              "ToolTip": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Models\\Employee.cs",
+              "RelativeToolTip": "Company_Task\\Models\\Employee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:32:24.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Company_Task\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Company_Task\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T07:51:17.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Company_Task\\ViewModel\\EmployeeViewModel.cs",
+              "ToolTip": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeToolTip": "Company_Task\\ViewModel\\EmployeeViewModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:02:47.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Views\\Employee\\Add.cshtml",
+              "RelativeDocumentMoniker": "Company_Task\\Views\\Employee\\Add.cshtml",
+              "ToolTip": "F:\\ASP.NET MVC\\Company_Task\\Company_Task\\Views\\Employee\\Add.cshtml",
+              "RelativeToolTip": "Company_Task\\Views\\Employee\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T17:59:50.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
